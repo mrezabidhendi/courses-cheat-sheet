@@ -1,3 +1,10 @@
+adding some text to see what does the git stash command do.
+
+
+
+
+These are 2 logs from the "git log" command:
+
 commit 849f85f12401e87ff9285c97feea943988a4428e (HEAD -> master)
 Author: Mohamadreza Bidhendi <36895909+mrezabidhendi@users.noreply.github.com>
 Date:   Thu Jul 27 19:39:53 2023 +0330

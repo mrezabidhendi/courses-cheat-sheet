@@ -50,3 +50,4 @@
 ##### `git checkout branch_name`
 - switch to the specified branch
 
+> This text added in v4.2069-beta branch.

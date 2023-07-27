@@ -17,3 +17,8 @@
 ## git reset [Commit ID]
 - go back to the commit with the specified ID and just forget about whatever commited after that particular commit.
 
+## git stash
+- change the files that are being tracked by git to how they were in the latest commit! If they have been changed the changes will be undone.
+
+## git stash pop
+- bring the changes that were done to the files back. files would feature the changes done after the latest commit and before being stashed.

@@ -35,3 +35,5 @@
 ## git push origin branch_name
 - push the local changes to an origin server
 
+# NEVER COMMIT NON-FINALIZED CHANGES TO THE MAIN BRANCH
+- while developing always have a brach for developement and only commit the finalized code (production/release) there.

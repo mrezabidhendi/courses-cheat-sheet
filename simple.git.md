@@ -36,4 +36,8 @@
 - push the local changes to an origin server
 
 # NEVER COMMIT NON-FINALIZED CHANGES TO THE MAIN BRANCH
-- while developing always have a brach for developement and only commit the finalized code (production/release) there.
+- while developing always have a branch for developement and only commit the finalized code (production/release) there.
+
+## git clone [URL]
+- cloning a URL to your Local device
+

@@ -22,3 +22,6 @@
 
 ## git stash pop
 - bring the changes that were done to the files back. files would feature the changes done after the latest commit and before being stashed.
+
+## git stash clear
+- clears the stash and whatever changes that were not commited would be lost forever!

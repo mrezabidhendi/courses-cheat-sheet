@@ -56,3 +56,6 @@
 ##### `git push origin branch_name`
 - push the local changes ***to a branch*** to an origin server
 
+##### `git push origin branch_name -f`
+- with the -f flag we ***force*** the branch to be pushed. it overwrites any commits that are only present in the online/remote repo.
+

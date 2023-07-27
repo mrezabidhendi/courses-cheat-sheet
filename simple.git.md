@@ -43,3 +43,10 @@
 
 ##### `git remote add upstream [URL]`
 - add another URL as upstream to your project (it will be shown whenever you run `git remote -v` command) (usecase e.g. when you forked a project on your account and you wanna add link to the main project as upstream)
+
+##### `git branch branch_name`
+- create a branch with the name passed as argument
+
+##### `git checkout branch_name`
+- switch to the specified branch
+

@@ -25,3 +25,10 @@
 
 ## git stash clear
 - clears the stash and whatever changes that were not commited would be lost forever!
+
+## git remote add origin URL
+- Connect the local project to a remote git project via URL
+
+## git remote -v
+- show the URLs attached to Local Project
+

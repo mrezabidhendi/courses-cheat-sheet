@@ -59,3 +59,12 @@
 ##### `git push origin branch_name -f`
 - with the -f flag we ***force*** the branch to be pushed. it overwrites any commits that are only present in the online/remote repo.
 
+##### `git fetch --all --prune`
+- 
+##### `git reset --hard upstream/main`
+-
+##### `git pull upstream main`
+-
+
+##### `git rebase -i [commit ID]`
+- this command is used to squash multiple comments into one

@@ -32,3 +32,6 @@
 ## git remote -v
 - show the URLs attached to Local Project
 
+## git push origin branch_name
+- push the local changes to an origin server
+

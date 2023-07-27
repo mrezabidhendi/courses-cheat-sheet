@@ -51,3 +51,8 @@
 - switch to the specified branch
 
 > This text added in v4.2069-beta branch.
+
+##### **\*REPEAT\***
+##### `git push origin branch_name`
+- push the local changes ***to a branch*** to an origin server
+

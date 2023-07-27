@@ -1,0 +1,11 @@
+commit 849f85f12401e87ff9285c97feea943988a4428e (HEAD -> master)
+Author: Mohamadreza Bidhendi <36895909+mrezabidhendi@users.noreply.github.com>
+Date:   Thu Jul 27 19:39:53 2023 +0330
+
+    dummy.file.txt removed from the directory. for the files that are being deleted they should get staged by the git add file_name command, then the commit message can be added to track the file removal via git.
+
+commit 5f0da65b21e2e95bad77e981354b044cd9282eb1
+Author: Mohamadreza Bidhendi <36895909+mrezabidhendi@users.noreply.github.com>
+Date:   Thu Jul 27 19:37:17 2023 +0330
+
+    A file called dummy.file.txt created in a directory, staged, and is to be removed in the next commit

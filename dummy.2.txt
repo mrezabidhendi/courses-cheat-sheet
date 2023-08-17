@@ -1,3 +1,0 @@
-Hey from dummy 2
-
-adding some text to see what does the git stash command do.
